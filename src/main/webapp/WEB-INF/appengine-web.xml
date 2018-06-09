@@ -5,7 +5,7 @@
     <!--manual-scaling>
         <instances>1</instances>
     </manual-scaling-->
-    <sessions-enabled>false</sessions-enabled>
+    <sessions-enabled>true</sessions-enabled>
     <instance-class>F4</instance-class>    
     <precompilation-enabled>false</precompilation-enabled>
     <system-properties>
